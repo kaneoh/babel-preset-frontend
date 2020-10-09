@@ -3,12 +3,13 @@
   "version": "0.0.1",
   "description": "Babel preset for the frontend teams",
   "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kaneoh/babel-preset-frontend.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "keywords": [
     "babel",
