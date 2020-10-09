@@ -1,6 +1,6 @@
 # Babel preset frontend
 
-Babel preset for the frontend teams.
+Babel preset for the frontend teams working on Rolo.
 
 ## Install
 
