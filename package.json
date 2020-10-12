@@ -1,20 +1,19 @@
 {
-  "name": "@kaneoh/babel-preset-frontend",
+  "name": "@rolo-chat/babel-preset-frontend",
   "version": "0.0.1",
   "description": "Babel preset for the frontend teams",
   "main": "src/index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaneoh/babel-preset-frontend.git"
+    "url": "git+https://github.com/rolo-chat/babel-preset-frontend.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "keywords": [
     "babel",
     "preset",
-    "kaneoh",
     "frontend",
     "front",
     "react"
@@ -22,9 +21,9 @@
   "author": "Rolo Innovation Inc.",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/kaneoh/babel-preset-frontend/issues"
+    "url": "https://github.com/rolo-chat/babel-preset-frontend/issues"
   },
-  "homepage": "https://github.com/kaneoh/babel-preset-frontend#readme",
+  "homepage": "https://github.com/rolo-chat/babel-preset-frontend#readme",
   "dependencies": {
     "@babel/core": "^7.11.6",
     "@babel/preset-env": "^7.11.5",
