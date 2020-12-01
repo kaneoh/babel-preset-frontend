@@ -5,7 +5,7 @@ Babel preset for the frontend teams working on Rolo.
 ## Install
 
 ```bash
-npm i -D @rolo-chat/babel-preset-frontend @babel/core babel-loader
+npm i -D babel-preset-rolo-frontend @babel/core @babel/eslint-parser babel-jest babel-loader
 ```
 
 Add it as a preset in `.babelrc`
