@@ -12,6 +12,6 @@ Add it as a preset in `.babelrc`
 
 ```json
 {
-  "presets": ["@rolo-chat/babel-preset-frontend"]
+  "presets": ["babel-preset-rolo-frontend"]
 }
 ```
